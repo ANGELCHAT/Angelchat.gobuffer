@@ -1,4 +1,0 @@
-protobuf
-========
-
-Google Protocol Buffers
